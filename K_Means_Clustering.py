@@ -5,7 +5,7 @@ import sklearn.metrics as metrics
 import math
 import matplotlib.pyplot as plt
 
-Cars_data = pandas.read_csv("cars.csv")
+Cars_data = pandas.read_csv("Data/cars.csv")
 
 nCars = Cars_data.shape[0]
 #print(nCars)

@@ -6,7 +6,7 @@ import sklearn.neighbors as neigh
 import numpy
 from numpy import linalg as LA
 
-Spiral_data = pandas.read_csv("Spiral.csv")
+Spiral_data = pandas.read_csv("Data/Spiral.csv")
 nObs = Spiral_data.shape[0]
 print(Spiral_data.columns)
 
