@@ -1,6 +1,6 @@
 # Machine-Learning
 
-The topics Covered are:
+The topics covered in this repo are:
 
 -----------------------------------------------Unsupervised Learning--------------------------------------------------
 1. Non-Parametric Methods - Density estimation, outlier detection and nearest-neighbor algorithm.
