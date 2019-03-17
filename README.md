@@ -11,7 +11,7 @@ The topics Covered are:
 
 4. Spectral Clustering - Connectivity based data clustering 
 
------------------------------------------------Supervised Learning----------------------------------------------------
+-----------------------------------------------Supervised Learning-----------------------------------------------------
 5. Decision Tress - finding the contents of each node and calculating split entropy of each split in decision tree to analyse the optimal split.
  
 6. Multinomial Logistic Regression - performing multinomial logistic regression and also calculating the odd ratios.
