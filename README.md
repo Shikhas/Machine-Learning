@@ -16,3 +16,8 @@ The topics covered in this repo are:
  5. Decision Tress - finding the contents of each node and calculating split entropy of each split in decision tree to    analyse the optimal split.
  
  6. Multinomial Logistic Regression - performing multinomial logistic regression and also calculating the odd ratios.
+ 
+ 7. Identifying and Profiling the Clusters in Chicago Pothole data ->Performed clustering of 18K observations using K-Means     Clustering and determined number of clusters using Silhouette and Elbow charts. Profiled the clusters using Classification     tree and criteria of Gini’s value.
+ 
+ 8. Comparing Logistic Regression model and Classification tree model to predict how likely a policy-holder will file a claim     using RASE, AUC metrics and ROC curve.
+ 
